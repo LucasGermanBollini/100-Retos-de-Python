@@ -57,7 +57,7 @@ def anagrama(palabra1,palabra2):
     return palabra1 == palabra2
 
 print()
-print("Prueba del segundo condigo empieza aca: ")
+print("Prueba del segundo codigo empieza aca: ")
 print()
 print(anagrama("dnfxg","sdngf"))
 print(anagrama("dnfxg", "sdngf"))  
